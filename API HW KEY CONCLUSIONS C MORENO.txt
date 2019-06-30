@@ -1,0 +1,10 @@
+KEY FINDINGS: API HOMEWORK (CARLOS MORENO)
+
+# KEY OBSERVATIONS: Sample of randomly selected 545 cities
+
+#(1) Maximum Temperatures increases as the city location gets closer to the equator. However, peak msximum
+#.   temperature seems to occur around latitude 20 to 25
+#(2) Most cities have humidity above 60%.  The places with lowest humidity levels align with 
+#    cities with highest maximum temperatures (around latitude 20 to 25)
+#(3) There is no visual relationship between latitude and cloudiness.
+#(4) Most cities in the sample experience wind speed below 15mph.  
